@@ -1,0 +1,52 @@
+[
+{
+"namauang": "Euro",
+"negara": "German",
+"imageId": "euro"
+},
+{
+"namauang": "Pesso",
+"negara": "Fillipina",
+"imageId": "peso"
+},
+{
+"namauang": "Yuan",
+"negara": "Tiongkok",
+"imageId": "yuan"
+},
+{
+"namauang": "Singapore Dollar",
+"negara": "Singapore",
+"imageId": "singapore"
+},
+{
+"namauang": "Rupiah",
+"negara": "Indonesia",
+"imageId": "rupiah"
+},
+{
+"namauang": "Won",
+"negara": "Korea Selatan",
+"imageId": "won"
+},
+{
+"namauang": "Yen",
+"negara": "Jepang",
+"imageId": "yen"
+},
+{
+"namauang": "Us Dollar",
+"negara": "Amerika Serikat",
+"imageId": "dollar"
+},
+{
+"namauang": "Bath",
+"negara": "Thailand",
+"imageId": "bath"
+},
+{
+"namauang": "Rupee",
+"negara": "india",
+"imageId": "rupee"
+}
+]
