@@ -48,5 +48,10 @@
 "namauang": "Rupee",
 "negara": "india",
 "imageId": "rupee"
+},
+{
+"namauang": "Ringgit",
+"negara": "Malaysia",
+"imageId": "ringgit"
 }
 ]
